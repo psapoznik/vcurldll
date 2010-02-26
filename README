@@ -1,0 +1,20 @@
+========================================================================
+    DYNAMIC LINK LIBRARY : vCurlDll Project Overview
+========================================================================
+
+This project is a library binding of curl and is designed to use from Velneo V7
+
+
+Dependencies
+===========
+libcurl
+
+Licensing
+=========
+Read COPYING file
+
+Links
+=====
+http://velneo.es/vcurl/
+http://www.velneo.es
+http://curl.haxx.se/
